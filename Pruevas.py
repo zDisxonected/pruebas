@@ -1,3 +1,4 @@
+chr(32)
 print("Nombre: Joel Valdez")
 print("Edad: 21")
 print("Pais: Argentina") 
