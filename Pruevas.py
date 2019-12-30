@@ -1,0 +1,10 @@
+print("Nombre: Joel Valdez")
+print("Edad: 21")
+print("Pais: Argentina") 
+print("Provincia: Buenos Aires")
+print("Localidad: Aldo Bonzi") 
+print("Hermanos: Kevin Valdez | Eric Valdez")
+print("Madre: Marta") 
+print("DNI: 41.639.658")
+print("Telefono: +54 9 11 3878-1208")
+
